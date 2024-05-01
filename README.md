@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=JaeBeen95&show_icons=true&theme=radical)
+[![JaeBeen's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JaeBeen95/JaeBeen95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
